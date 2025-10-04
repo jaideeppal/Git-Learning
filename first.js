@@ -12,4 +12,8 @@ console.log(payment);
 
 const upi ="Integrated the Upi"
 console.log(upi);
-console.log("Latest Update")
+console.log("Latest Update");
+
+
+//I am fixing some bug
+console.log("Bug Fix");
